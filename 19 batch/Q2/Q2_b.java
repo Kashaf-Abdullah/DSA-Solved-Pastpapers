@@ -16,5 +16,15 @@ public class Q2_b {
         System.out.print(n1 + " " + n2+" ");
        fibbonacci(20);
     }
+
+    // Fibbonacci series along with timing required ro generate series in second
+
+
+    // for(int i = 5; i < 15; i++){
+    //     long t = System.currentTimeMillis();
+    //     long m = fibbonacci(i);
+    //     long t1 = System.currentTimeMillis();
+    //     System.out.println("fab of " + i + " is  " + m +" in time  "  + (t1-t));
+    // }
     
 }
